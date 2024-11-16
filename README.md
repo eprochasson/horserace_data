@@ -56,7 +56,7 @@ as we can tell, this kind of information can not be found in historical dataset,
 I initially planned on releasing the scrapers for the data, but few things stood in my way:
 
 - the data was obtained through scraping, and the websites changed. It happened many times while the scrapers were live, from 2016 to 2018, but the current version 
-drifted too far from the latest working version. Scraping is inherently brittle and the code rots at a very fast pace. I am working on releasing a version that work but don't hold your breath.
+drifted too far from the latest working version. Scraping is inherently brittle and the code rots at a very fast pace. ~~I am working on releasing a version that work but don't hold your breath.~~
 - the code was designed for a much larger purpose (probe for new race, pull and store results in a database) and requires a lot of cleanup to specifically isolate the scraping bits.
 
 ### Why the discrepancy in the dates? Why some information available and some not? Why is the schema so dirty?
